@@ -1,0 +1,65 @@
+h1{
+    color: rgb(255, 255, 255);
+}
+body{
+    background-color: #0B121F;
+}
+p{
+    color: #858585;
+}
+.green {
+    background-color: rgb(4, 253, 25);
+}
+h2{
+    color: rgb(4, 253, 25);
+}
+.grey{
+    background-color: #4F596A;
+}
+.grey{
+    color: #9e9e9e;
+}
+.white{
+    color: #ffffff;
+}
+.green2{
+    color: #33ff00;
+}
+h4{
+    color: #00e745;
+}
+
+h3{
+    color: #00ff22;
+}
+a{
+    color: #3cff00;
+}
+.green{
+    background-color: #33ff00;
+}
+,.grey{
+    background-color: #33ff00   ;
+}
+.green{
+    background-color: #00ff22;
+}
+.grey{
+    background-color: #4F596A;
+}
+.green{
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.grey{
+     font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+image{
+    border-radius: 5px;
+}
